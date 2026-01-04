@@ -1,0 +1,138 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	regulation of cardiac muscle cell action potential (GO:0098901)	2/25	3.137939e-05	4.298977e-03	0	0	3.473043e+02	3.601324e+03	FGF13;CALM1
+GO_Biological_Process_2021	regulation of cation channel activity (GO:2001257)	2/89	4.052639e-04	2.305448e-02	0	0	9.152184e+01	7.148745e+02	FGF13;CALM1
+GO_Biological_Process_2021	regulation of voltage-gated sodium channel activity (GO:1905150)	1/5	1.748917e-03	2.305448e-02	0	0	8.328750e+02	5.287722e+03	FGF13
+GO_Biological_Process_2021	negative regulation of collateral sprouting (GO:0048671)	1/5	1.748917e-03	2.305448e-02	0	0	8.328750e+02	5.287722e+03	FGF13
+GO_Biological_Process_2021	cerebral cortex cell migration (GO:0021795)	1/6	2.098387e-03	2.305448e-02	0	0	6.662667e+02	4.108591e+03	FGF13
+GO_Biological_Process_2021	telencephalon cell migration (GO:0022029)	1/6	2.098387e-03	2.305448e-02	0	0	6.662667e+02	4.108591e+03	FGF13
+GO_Biological_Process_2021	mitochondrion-endoplasmic reticulum membrane tethering (GO:1990456)	1/7	2.447753e-03	2.305448e-02	0	0	5.551944e+02	3.338154e+03	CALM1
+GO_Biological_Process_2021	tachykinin receptor signaling pathway (GO:0007217)	1/7	2.447753e-03	2.305448e-02	0	0	5.551944e+02	3.338154e+03	TAC1
+GO_Biological_Process_2021	autophagosome membrane docking (GO:0016240)	1/7	2.447753e-03	2.305448e-02	0	0	5.551944e+02	3.338154e+03	CALM1
+GO_Biological_Process_2021	regulation of cardiac muscle cell action potential involved in regulation of contraction (GO:0098909)	1/8	2.797015e-03	2.305448e-02	0	0	4.758571e+02	2.797661e+03	FGF13
+GO_Biological_Process_2021	regulation of collateral sprouting (GO:0048670)	1/8	2.797015e-03	2.305448e-02	0	0	4.758571e+02	2.797661e+03	FGF13
+GO_Biological_Process_2021	regulation of cyclic-nucleotide phosphodiesterase activity (GO:0051342)	1/8	2.797015e-03	2.305448e-02	0	0	4.758571e+02	2.797661e+03	CALM1
+GO_Biological_Process_2021	positive regulation of ryanodine-sensitive calcium-release channel activity (GO:0060316)	1/8	2.797015e-03	2.305448e-02	0	0	4.758571e+02	2.797661e+03	CALM1
+GO_Biological_Process_2021	anterograde trans-synaptic signaling (GO:0098916)	2/244	2.989614e-03	2.305448e-02	0	0	3.264628e+01	1.897601e+02	CALM1;PRKACB
+GO_Biological_Process_2021	regulation of high voltage-gated calcium channel activity (GO:1901841)	1/10	3.495224e-03	2.305448e-02	0	0	3.700741e+02	2.093271e+03	CALM1
+GO_Biological_Process_2021	negative regulation of voltage-gated calcium channel activity (GO:1901386)	1/10	3.495224e-03	2.305448e-02	0	0	3.700741e+02	2.093271e+03	CALM1
+GO_Biological_Process_2021	inhibitory synapse assembly (GO:1904862)	1/11	3.844172e-03	2.305448e-02	0	0	3.330500e+02	1.852157e+03	FGF13
+GO_Biological_Process_2021	tetrahydrobiopterin metabolic process (GO:0046146)	1/11	3.844172e-03	2.305448e-02	0	0	3.330500e+02	1.852157e+03	CALM1
+GO_Biological_Process_2021	negative regulation of ryanodine-sensitive calcium-release channel activity (GO:0060315)	1/12	4.193015e-03	2.305448e-02	0	0	3.027576e+02	1.657396e+03	CALM1
+GO_Biological_Process_2021	regulation of cell communication by electrical coupling involved in cardiac conduction (GO:1901844)	1/12	4.193015e-03	2.305448e-02	0	0	3.027576e+02	1.657396e+03	CALM1
+GO_Biological_Process_2021	negative regulation of release of sequestered calcium ion into cytosol (GO:0051280)	1/12	4.193015e-03	2.305448e-02	0	0	3.027576e+02	1.657396e+03	CALM1
+GO_Biological_Process_2021	regulation of cell communication by electrical coupling (GO:0010649)	1/13	4.541754e-03	2.305448e-02	0	0	2.775139e+02	1.497033e+03	CALM1
+GO_Biological_Process_2021	detection of calcium ion (GO:0005513)	1/13	4.541754e-03	2.305448e-02	0	0	2.775139e+02	1.497033e+03	CALM1
+GO_Biological_Process_2021	pteridine-containing compound metabolic process (GO:0042558)	1/13	4.541754e-03	2.305448e-02	0	0	2.775139e+02	1.497033e+03	CALM1
+GO_Biological_Process_2021	high-density lipoprotein particle assembly (GO:0034380)	1/13	4.541754e-03	2.305448e-02	0	0	2.775139e+02	1.497033e+03	PRKACB
+GO_Biological_Process_2021	MAPK cascade (GO:0000165)	2/303	4.568558e-03	2.305448e-02	0	0	2.616877e+01	1.410119e+02	FGF13;CALM1
+GO_Biological_Process_2021	chemical synaptic transmission (GO:0007268)	2/306	4.657283e-03	2.305448e-02	0	0	2.590658e+01	1.391008e+02	CALM1;PRKACB
+GO_Biological_Process_2021	glycogen catabolic process (GO:0005980)	1/15	5.238917e-03	2.305448e-02	0	0	2.378452e+02	1.249078e+03	CALM1
+GO_Biological_Process_2021	glucan catabolic process (GO:0009251)	1/15	5.238917e-03	2.305448e-02	0	0	2.378452e+02	1.249078e+03	CALM1
+GO_Biological_Process_2021	protein kinase A signaling (GO:0010737)	1/15	5.238917e-03	2.305448e-02	0	0	2.378452e+02	1.249078e+03	PRKACB
+GO_Biological_Process_2021	cellular polysaccharide catabolic process (GO:0044247)	1/16	5.587342e-03	2.305448e-02	0	0	2.219778e+02	1.151455e+03	CALM1
+GO_Biological_Process_2021	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion (GO:0010881)	1/17	5.935662e-03	2.305448e-02	0	0	2.080938e+02	1.066850e+03	CALM1
+GO_Biological_Process_2021	activation of protein kinase A activity (GO:0034199)	1/17	5.935662e-03	2.305448e-02	0	0	2.080938e+02	1.066850e+03	PRKACB
+GO_Biological_Process_2021	negative regulation of peptidyl-threonine phosphorylation (GO:0010801)	1/17	5.935662e-03	2.305448e-02	0	0	2.080938e+02	1.066850e+03	CALM1
+GO_Biological_Process_2021	positive regulation of phosphoprotein phosphatase activity (GO:0032516)	1/18	6.283878e-03	2.305448e-02	0	0	1.958431e+02	9.928793e+02	CALM1
+GO_Biological_Process_2021	cellular response to glucagon stimulus (GO:0071377)	1/19	6.631989e-03	2.305448e-02	0	0	1.849537e+02	9.277001e+02	PRKACB
+GO_Biological_Process_2021	diol metabolic process (GO:0034311)	1/19	6.631989e-03	2.305448e-02	0	0	1.849537e+02	9.277001e+02	CALM1
+GO_Biological_Process_2021	regulation of cardiac muscle contraction by calcium ion signaling (GO:0010882)	1/21	7.327898e-03	2.305448e-02	0	0	1.664417e+02	8.182383e+02	CALM1
+GO_Biological_Process_2021	response to glucagon (GO:0033762)	1/21	7.327898e-03	2.305448e-02	0	0	1.664417e+02	8.182383e+02	PRKACB
+GO_Biological_Process_2021	positive regulation of phosphatase activity (GO:0010922)	1/21	7.327898e-03	2.305448e-02	0	0	1.664417e+02	8.182383e+02	CALM1
+GO_Biological_Process_2021	negative regulation of microtubule depolymerization (GO:0007026)	1/21	7.327898e-03	2.305448e-02	0	0	1.664417e+02	8.182383e+02	FGF13
+GO_Biological_Process_2021	positive regulation of calcium ion transmembrane transporter activity (GO:1901021)	1/22	7.675696e-03	2.305448e-02	0	0	1.585079e+02	7.718855e+02	CALM1
+GO_Biological_Process_2021	phosphorylation (GO:0016310)	2/400	7.839728e-03	2.305448e-02	0	0	1.969347e+01	9.548478e+01	PRKACB;DCLK1
+GO_Biological_Process_2021	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum (GO:0010880)	1/23	8.023390e-03	2.305448e-02	0	0	1.512955e+02	7.300602e+02	CALM1
+GO_Biological_Process_2021	positive regulation of protein autophosphorylation (GO:0031954)	1/23	8.023390e-03	2.305448e-02	0	0	1.512955e+02	7.300602e+02	CALM1
+GO_Biological_Process_2021	regulation of monooxygenase activity (GO:0032768)	1/24	8.370979e-03	2.305448e-02	0	0	1.447101e+02	6.921464e+02	CALM1
+GO_Biological_Process_2021	negative regulation of protein depolymerization (GO:1901880)	1/24	8.370979e-03	2.305448e-02	0	0	1.447101e+02	6.921464e+02	FGF13
+GO_Biological_Process_2021	regulation of microtubule depolymerization (GO:0031114)	1/25	8.718464e-03	2.305448e-02	0	0	1.386736e+02	6.576336e+02	FGF13
+GO_Biological_Process_2021	regulation of rhodopsin mediated signaling pathway (GO:0022400)	1/25	8.718464e-03	2.305448e-02	0	0	1.386736e+02	6.576336e+02	CALM1
+GO_Biological_Process_2021	regulation of ryanodine-sensitive calcium-release channel activity (GO:0060314)	1/25	8.718464e-03	2.305448e-02	0	0	1.386736e+02	6.576336e+02	CALM1
+GO_Biological_Process_2021	positive regulation of peptidyl-threonine phosphorylation (GO:0010800)	1/25	8.718464e-03	2.305448e-02	0	0	1.386736e+02	6.576336e+02	CALM1
+GO_Biological_Process_2021	regulation of cardiac muscle cell contraction (GO:0086004)	1/27	9.413121e-03	2.305448e-02	0	0	1.279936e+02	5.971734e+02	FGF13
+GO_Biological_Process_2021	microtubule polymerization or depolymerization (GO:0031109)	1/27	9.413121e-03	2.305448e-02	0	0	1.279936e+02	5.971734e+02	FGF13
+GO_Biological_Process_2021	negative regulation of cation channel activity (GO:2001258)	1/27	9.413121e-03	2.305448e-02	0	0	1.279936e+02	5.971734e+02	CALM1
+GO_Biological_Process_2021	nervous system development (GO:0007399)	2/447	9.715941e-03	2.305448e-02	0	0	1.757124e+01	8.142489e+01	FGF13;DCLK1
+GO_Biological_Process_2021	glycogen metabolic process (GO:0005977)	1/28	9.760292e-03	2.305448e-02	0	0	1.232469e+02	5.705633e+02	CALM1
+GO_Biological_Process_2021	negative regulation of axonogenesis (GO:0050771)	1/28	9.760292e-03	2.305448e-02	0	0	1.232469e+02	5.705633e+02	FGF13
+GO_Biological_Process_2021	negative regulation of calcium ion transmembrane transporter activity (GO:1901020)	1/28	9.760292e-03	2.305448e-02	0	0	1.232469e+02	5.705633e+02	CALM1
+GO_Biological_Process_2021	positive regulation of dephosphorylation (GO:0035306)	1/29	1.010736e-02	2.307847e-02	0	0	1.188393e+02	5.460061e+02	CALM1
+GO_Biological_Process_2021	regulation of calcium ion transmembrane transporter activity (GO:1901019)	1/29	1.010736e-02	2.307847e-02	0	0	1.188393e+02	5.460061e+02	CALM1
+GO_Biological_Process_2021	microtubule polymerization (GO:0046785)	1/30	1.045432e-02	2.310068e-02	0	0	1.147356e+02	5.232793e+02	FGF13
+GO_Biological_Process_2021	regulation of striated muscle contraction (GO:0006942)	1/30	1.045432e-02	2.310068e-02	0	0	1.147356e+02	5.232793e+02	CALM1
+GO_Biological_Process_2021	renal water homeostasis (GO:0003091)	1/31	1.080118e-02	2.348829e-02	0	0	1.109056e+02	5.021914e+02	PRKACB
+GO_Biological_Process_2021	negative regulation of microtubule polymerization or depolymerization (GO:0031111)	1/32	1.114794e-02	2.349642e-02	0	0	1.073226e+02	4.825761e+02	FGF13
+GO_Biological_Process_2021	negative regulation of developmental growth (GO:0048640)	1/32	1.114794e-02	2.349642e-02	0	0	1.073226e+02	4.825761e+02	FGF13
+GO_Biological_Process_2021	positive regulation of protein dephosphorylation (GO:0035307)	1/34	1.184114e-02	2.356279e-02	0	0	1.008081e+02	4.472024e+02	CALM1
+GO_Biological_Process_2021	positive regulation of release of sequestered calcium ion into cytosol (GO:0051281)	1/34	1.184114e-02	2.356279e-02	0	0	1.008081e+02	4.472024e+02	CALM1
+GO_Biological_Process_2021	autophagosome maturation (GO:0097352)	1/34	1.184114e-02	2.356279e-02	0	0	1.008081e+02	4.472024e+02	CALM1
+GO_Biological_Process_2021	protein phosphorylation (GO:0006468)	2/496	1.186739e-02	2.356279e-02	0	0	1.578866e+01	7.000632e+01	PRKACB;DCLK1
+GO_Biological_Process_2021	regulation of cardiac muscle contraction (GO:0055117)	1/36	1.253392e-02	2.418516e-02	0	0	9.503810e+01	4.162019e+02	CALM1
+GO_Biological_Process_2021	Wnt signaling pathway, calcium modulating pathway (GO:0007223)	1/36	1.253392e-02	2.418516e-02	0	0	9.503810e+01	4.162019e+02	CALM1
+GO_Biological_Process_2021	regulation of protein autophosphorylation (GO:0031952)	1/37	1.288015e-02	2.450807e-02	0	0	9.239352e+01	4.021029e+02	CALM1
+GO_Biological_Process_2021	regulation of phosphoprotein phosphatase activity (GO:0043666)	1/38	1.322628e-02	2.476360e-02	0	0	8.989189e+01	3.888318e+02	CALM1
+GO_Biological_Process_2021	regulation of nitric-oxide synthase activity (GO:0050999)	1/39	1.357231e-02	2.476360e-02	0	0	8.752193e+01	3.763201e+02	CALM1
+GO_Biological_Process_2021	regulation of peptidyl-threonine phosphorylation (GO:0010799)	1/39	1.357231e-02	2.476360e-02	0	0	8.752193e+01	3.763201e+02	CALM1
+GO_Biological_Process_2021	positive regulation of cation channel activity (GO:2001259)	1/40	1.391823e-02	2.476360e-02	0	0	8.527350e+01	3.645063e+02	CALM1
+GO_Biological_Process_2021	regulation of sodium ion transmembrane transporter activity (GO:2000649)	1/40	1.391823e-02	2.476360e-02	0	0	8.527350e+01	3.645063e+02	FGF13
+GO_Biological_Process_2021	regulation of protein dephosphorylation (GO:0035304)	1/41	1.426405e-02	2.505352e-02	0	0	8.313750e+01	3.533355e+02	CALM1
+GO_Biological_Process_2021	positive regulation of neuron differentiation (GO:0045666)	1/43	1.495537e-02	2.561108e-02	0	0	7.917063e+01	3.327292e+02	PCP4
+GO_Biological_Process_2021	substantia nigra development (GO:0021762)	1/43	1.495537e-02	2.561108e-02	0	0	7.917063e+01	3.327292e+02	CALM1
+GO_Biological_Process_2021	polyol metabolic process (GO:0019751)	1/47	1.633678e-02	2.763134e-02	0	0	7.227174e+01	2.973502e+02	CALM1
+GO_Biological_Process_2021	inositol phosphate metabolic process (GO:0043647)	1/48	1.668187e-02	2.787093e-02	0	0	7.073050e+01	2.895305e+02	CALM1
+GO_Biological_Process_2021	neuron migration (GO:0001764)	1/50	1.737174e-02	2.867384e-02	0	0	6.783673e+01	2.749362e+02	FGF13
+GO_Biological_Process_2021	regulation of release of sequestered calcium ion into cytosol (GO:0051279)	1/52	1.806120e-02	2.911040e-02	0	0	6.516993e+01	2.615914e+02	CALM1
+GO_Biological_Process_2021	plasma membrane bounded cell projection morphogenesis (GO:0120039)	1/52	1.806120e-02	2.911040e-02	0	0	6.516993e+01	2.615914e+02	DCLK1
+GO_Biological_Process_2021	protein polymerization (GO:0051258)	1/59	2.047103e-02	3.261083e-02	0	0	5.728448e+01	2.227647e+02	FGF13
+GO_Biological_Process_2021	synapse assembly (GO:0007416)	1/69	2.390486e-02	3.764329e-02	0	0	4.883578e+01	1.823369e+02	FGF13
+GO_Biological_Process_2021	response to metal ion (GO:0010038)	1/71	2.459039e-02	3.828276e-02	0	0	4.743571e+01	1.757683e+02	CALM1
+GO_Biological_Process_2021	negative regulation of supramolecular fiber organization (GO:1902904)	1/72	2.493300e-02	3.838001e-02	0	0	4.676526e+01	1.726369e+02	FGF13
+GO_Biological_Process_2021	regulation of cell division (GO:0051302)	1/76	2.630240e-02	4.003810e-02	0	0	4.426222e+01	1.610302e+02	CALM1
+GO_Biological_Process_2021	regulation of neuron differentiation (GO:0045664)	1/79	2.732837e-02	4.114271e-02	0	0	4.255342e+01	1.531851e+02	PCP4
+GO_Biological_Process_2021	regulation of G protein-coupled receptor signaling pathway (GO:0008277)	1/82	2.835341e-02	4.222193e-02	0	0	4.097119e+01	1.459807e+02	CALM1
+GO_Biological_Process_2021	regulation of cytokinesis (GO:0032465)	1/84	2.903626e-02	4.277384e-02	0	0	3.997992e+01	1.414973e+02	CALM1
+GO_Biological_Process_2021	sodium ion transport (GO:0006814)	1/90	3.108234e-02	4.530085e-02	0	0	3.727341e+01	1.293803e+02	FGF13
+GO_Biological_Process_2021	regulation of heart contraction (GO:0008016)	1/93	3.210399e-02	4.629733e-02	0	0	3.605254e+01	1.239766e+02	CALM1
+GO_Biological_Process_2021	regulation of cell cycle process (GO:0010564)	1/106	3.652048e-02	5.100758e-02	0	0	3.156825e+01	1.044872e+02	CALM1
+GO_Biological_Process_2021	cellular response to peptide hormone stimulus (GO:0071375)	1/106	3.652048e-02	5.100758e-02	0	0	3.156825e+01	1.044872e+02	PRKACB
+GO_Biological_Process_2021	positive regulation of protein serine/threonine kinase activity (GO:0071902)	1/106	3.652048e-02	5.100758e-02	0	0	3.156825e+01	1.044872e+02	CALM1
+GO_Biological_Process_2021	response to calcium ion (GO:0051592)	1/107	3.685949e-02	5.100758e-02	0	0	3.126887e+01	1.032073e+02	CALM1
+GO_Biological_Process_2021	Fc-epsilon receptor signaling pathway (GO:0038095)	1/111	3.821453e-02	5.162672e-02	0	0	3.012576e+01	9.834673e+01	CALM1
+GO_Biological_Process_2021	regulation of protein serine/threonine kinase activity (GO:0071900)	1/111	3.821453e-02	5.162672e-02	0	0	3.012576e+01	9.834673e+01	CALM1
+GO_Biological_Process_2021	Fc receptor signaling pathway (GO:0038093)	1/112	3.855303e-02	5.162672e-02	0	0	2.985285e+01	9.719255e+01	CALM1
+GO_Biological_Process_2021	activation of protein kinase activity (GO:0032147)	1/114	3.922973e-02	5.162672e-02	0	0	2.932153e+01	9.495252e+01	PRKACB
+GO_Biological_Process_2021	cellular response to lectin (GO:1990858)	1/115	3.956792e-02	5.162672e-02	0	0	2.906287e+01	9.386540e+01	PRKACB
+GO_Biological_Process_2021	stimulatory C-type lectin receptor signaling pathway (GO:0002223)	1/115	3.956792e-02	5.162672e-02	0	0	2.906287e+01	9.386540e+01	PRKACB
+GO_Biological_Process_2021	innate immune response activating cell surface receptor signaling pathway (GO:0002220)	1/119	4.091969e-02	5.288677e-02	0	0	2.807203e+01	8.972226e+01	PRKACB
+GO_Biological_Process_2021	non-canonical Wnt signaling pathway (GO:0035567)	1/124	4.260710e-02	5.439950e-02	0	0	2.692412e+01	8.496537e+01	CALM1
+GO_Biological_Process_2021	platelet degranulation (GO:0002576)	1/125	4.294428e-02	5.439950e-02	0	0	2.670565e+01	8.406541e+01	CALM1
+GO_Biological_Process_2021	negative regulation of cell growth (GO:0030308)	1/126	4.328135e-02	5.439950e-02	0	0	2.649067e+01	8.318158e+01	FGF13
+GO_Biological_Process_2021	muscle contraction (GO:0006936)	1/129	4.429197e-02	5.508219e-02	0	0	2.586589e+01	8.062272e+01	CALM1
+GO_Biological_Process_2021	regulation of response to external stimulus (GO:0032101)	1/130	4.462864e-02	5.508219e-02	0	0	2.566408e+01	7.979937e+01	CALM1
+GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	2/1025	4.640140e-02	5.597042e-02	0	0	7.417400e+00	2.277457e+01	PRKACB;DCLK1
+GO_Biological_Process_2021	protein localization to plasma membrane (GO:0072659)	1/136	4.664652e-02	5.597042e-02	0	0	2.451605e+01	7.514554e+01	FGF13
+GO_Biological_Process_2021	negative regulation of inflammatory response to antigenic stimulus (GO:0002862)	1/136	4.664652e-02	5.597042e-02	0	0	2.451605e+01	7.514554e+01	PRKACB
+GO_Biological_Process_2021	regulation of inflammatory response to antigenic stimulus (GO:0002861)	1/137	4.698247e-02	5.597042e-02	0	0	2.433456e+01	7.441461e+01	PRKACB
+GO_Biological_Process_2021	neuron projection morphogenesis (GO:0048812)	1/140	4.798974e-02	5.619311e-02	0	0	2.380576e+01	7.229256e+01	DCLK1
+GO_Biological_Process_2021	protein localization to cell periphery (GO:1990778)	1/140	4.798974e-02	5.619311e-02	0	0	2.380576e+01	7.229256e+01	FGF13
+GO_Biological_Process_2021	positive regulation of cytosolic calcium ion concentration (GO:0007204)	1/147	5.033647e-02	5.823191e-02	0	0	2.265639e+01	6.772053e+01	TAC1
+GO_Biological_Process_2021	regulation of cytosolic calcium ion concentration (GO:0051480)	1/148	5.067131e-02	5.823191e-02	0	0	2.250113e+01	6.710728e+01	TAC1
+GO_Biological_Process_2021	positive regulation of hydrolase activity (GO:0051345)	1/149	5.100605e-02	5.823191e-02	0	0	2.234797e+01	6.650334e+01	CALM1
+GO_Biological_Process_2021	negative regulation of protein phosphorylation (GO:0001933)	1/152	5.200967e-02	5.888698e-02	0	0	2.190066e+01	6.474549e+01	CALM1
+GO_Biological_Process_2021	positive regulation of protein kinase activity (GO:0045860)	1/154	5.267824e-02	5.915508e-02	0	0	2.161220e+01	6.361665e+01	CALM1
+GO_Biological_Process_2021	adenylate cyclase-modulating G protein-coupled receptor signaling pathway (GO:0007188)	1/165	5.634817e-02	6.276179e-02	0	0	2.015142e+01	5.795963e+01	PRKACB
+GO_Biological_Process_2021	neuron projection development (GO:0031175)	1/171	5.834481e-02	6.446161e-02	0	0	1.943431e+01	5.522036e+01	DCLK1
+GO_Biological_Process_2021	cation transport (GO:0006812)	1/174	5.934177e-02	6.503858e-02	0	0	1.909441e+01	5.393106e+01	FGF13
+GO_Biological_Process_2021	negative regulation of immune response (GO:0050777)	1/178	6.066965e-02	6.596620e-02	0	0	1.865913e+01	5.228871e+01	PRKACB
+GO_Biological_Process_2021	regulated exocytosis (GO:0045055)	1/180	6.133298e-02	6.616235e-02	0	0	1.844879e+01	5.149864e+01	CALM1
+GO_Biological_Process_2021	protein localization to membrane (GO:0072657)	1/195	6.629520e-02	7.095658e-02	0	0	1.700945e+01	4.615749e+01	FGF13
+GO_Biological_Process_2021	generation of neurons (GO:0048699)	1/202	6.860320e-02	7.285766e-02	0	0	1.641128e+01	4.397264e+01	FGF13
+GO_Biological_Process_2021	negative regulation of inflammatory response (GO:0050728)	1/212	7.189185e-02	7.518461e-02	0	0	1.562559e+01	4.113581e+01	PRKACB
+GO_Biological_Process_2021	phosphate-containing compound metabolic process (GO:0006796)	1/212	7.189185e-02	7.518461e-02	0	0	1.562559e+01	4.113581e+01	CALM1
+GO_Biological_Process_2021	positive regulation of protein modification process (GO:0031401)	1/214	7.254839e-02	7.529643e-02	0	0	1.547731e+01	4.060474e+01	CALM1
+GO_Biological_Process_2021	inflammatory response (GO:0006954)	1/230	7.778635e-02	8.012579e-02	0	0	1.438428e+01	3.673442e+01	TAC1
+GO_Biological_Process_2021	positive regulation of cell differentiation (GO:0045597)	1/258	8.689180e-02	8.883713e-02	0	0	1.279896e+01	3.126904e+01	PCP4
+GO_Biological_Process_2021	central nervous system development (GO:0007417)	1/268	9.012501e-02	9.146019e-02	0	0	1.231336e+01	2.963281e+01	DCLK1
+GO_Biological_Process_2021	supramolecular fiber organization (GO:0097435)	1/351	1.165841e-01	1.174413e-01	0	0	9.353810e+00	2.010267e+01	FGF13
+GO_Biological_Process_2021	positive regulation of protein phosphorylation (GO:0001934)	1/371	1.228602e-01	1.228602e-01	0	0	8.839189e+00	1.853320e+01	CALM1

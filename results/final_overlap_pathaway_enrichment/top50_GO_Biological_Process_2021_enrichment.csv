@@ -1,0 +1,51 @@
+Term,Adjusted P-value,Overlap,P-value,Combined Score
+regulation of cardiac muscle cell action potential (GO:0098901),0.004298977,2/25,3.137939e-05,3601.324
+regulation of cation channel activity (GO:2001257),0.02305448,2/89,0.0004052639,714.8745
+regulation of voltage-gated sodium channel activity (GO:1905150),0.02305448,1/5,0.001748917,5287.722
+negative regulation of collateral sprouting (GO:0048671),0.02305448,1/5,0.001748917,5287.722
+cerebral cortex cell migration (GO:0021795),0.02305448,1/6,0.002098387,4108.591
+telencephalon cell migration (GO:0022029),0.02305448,1/6,0.002098387,4108.591
+mitochondrion-endoplasmic reticulum membrane tethering (GO:1990456),0.02305448,1/7,0.002447753,3338.154
+tachykinin receptor signaling pathway (GO:0007217),0.02305448,1/7,0.002447753,3338.154
+autophagosome membrane docking (GO:0016240),0.02305448,1/7,0.002447753,3338.154
+regulation of cardiac muscle cell action potential involved in regulation of contraction (GO:0098909),0.02305448,1/8,0.002797015,2797.661
+regulation of collateral sprouting (GO:0048670),0.02305448,1/8,0.002797015,2797.661
+regulation of cyclic-nucleotide phosphodiesterase activity (GO:0051342),0.02305448,1/8,0.002797015,2797.661
+positive regulation of ryanodine-sensitive calcium-release channel activity (GO:0060316),0.02305448,1/8,0.002797015,2797.661
+anterograde trans-synaptic signaling (GO:0098916),0.02305448,2/244,0.002989614,189.7601
+regulation of high voltage-gated calcium channel activity (GO:1901841),0.02305448,1/10,0.003495224,2093.271
+negative regulation of voltage-gated calcium channel activity (GO:1901386),0.02305448,1/10,0.003495224,2093.271
+inhibitory synapse assembly (GO:1904862),0.02305448,1/11,0.003844172,1852.157
+tetrahydrobiopterin metabolic process (GO:0046146),0.02305448,1/11,0.003844172,1852.157
+negative regulation of ryanodine-sensitive calcium-release channel activity (GO:0060315),0.02305448,1/12,0.004193015,1657.396
+regulation of cell communication by electrical coupling involved in cardiac conduction (GO:1901844),0.02305448,1/12,0.004193015,1657.396
+negative regulation of release of sequestered calcium ion into cytosol (GO:0051280),0.02305448,1/12,0.004193015,1657.396
+regulation of cell communication by electrical coupling (GO:0010649),0.02305448,1/13,0.004541754,1497.033
+detection of calcium ion (GO:0005513),0.02305448,1/13,0.004541754,1497.033
+pteridine-containing compound metabolic process (GO:0042558),0.02305448,1/13,0.004541754,1497.033
+high-density lipoprotein particle assembly (GO:0034380),0.02305448,1/13,0.004541754,1497.033
+MAPK cascade (GO:0000165),0.02305448,2/303,0.004568558,141.0119
+chemical synaptic transmission (GO:0007268),0.02305448,2/306,0.004657283,139.1008
+glycogen catabolic process (GO:0005980),0.02305448,1/15,0.005238917,1249.078
+glucan catabolic process (GO:0009251),0.02305448,1/15,0.005238917,1249.078
+protein kinase A signaling (GO:0010737),0.02305448,1/15,0.005238917,1249.078
+cellular polysaccharide catabolic process (GO:0044247),0.02305448,1/16,0.005587342,1151.455
+regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion (GO:0010881),0.02305448,1/17,0.005935662,1066.85
+activation of protein kinase A activity (GO:0034199),0.02305448,1/17,0.005935662,1066.85
+negative regulation of peptidyl-threonine phosphorylation (GO:0010801),0.02305448,1/17,0.005935662,1066.85
+positive regulation of phosphoprotein phosphatase activity (GO:0032516),0.02305448,1/18,0.006283878,992.8793
+cellular response to glucagon stimulus (GO:0071377),0.02305448,1/19,0.006631989,927.7001
+diol metabolic process (GO:0034311),0.02305448,1/19,0.006631989,927.7001
+regulation of cardiac muscle contraction by calcium ion signaling (GO:0010882),0.02305448,1/21,0.007327898,818.2383
+response to glucagon (GO:0033762),0.02305448,1/21,0.007327898,818.2383
+positive regulation of phosphatase activity (GO:0010922),0.02305448,1/21,0.007327898,818.2383
+negative regulation of microtubule depolymerization (GO:0007026),0.02305448,1/21,0.007327898,818.2383
+positive regulation of calcium ion transmembrane transporter activity (GO:1901021),0.02305448,1/22,0.007675696,771.8855
+phosphorylation (GO:0016310),0.02305448,2/400,0.007839728,95.48478
+regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum (GO:0010880),0.02305448,1/23,0.00802339,730.0602
+positive regulation of protein autophosphorylation (GO:0031954),0.02305448,1/23,0.00802339,730.0602
+regulation of monooxygenase activity (GO:0032768),0.02305448,1/24,0.008370979,692.1464
+negative regulation of protein depolymerization (GO:1901880),0.02305448,1/24,0.008370979,692.1464
+regulation of microtubule depolymerization (GO:0031114),0.02305448,1/25,0.008718464,657.6336
+regulation of rhodopsin mediated signaling pathway (GO:0022400),0.02305448,1/25,0.008718464,657.6336
+regulation of ryanodine-sensitive calcium-release channel activity (GO:0060314),0.02305448,1/25,0.008718464,657.6336
