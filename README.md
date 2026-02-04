@@ -172,6 +172,8 @@ parkinson\_project\_optimised/
 
 │
 
+├── scripts/        # Data analyses (parkinson_pipeline.py)
+
 ├── results/        # Tabular outputs and intermediate analysis artifacts
 
 ├── figures/        # Generated plots and visualizations
@@ -204,11 +206,8 @@ The following components are excluded from this repository prior to submission d
 
 
 
-* scripts/
 
-
-
-These directories contain raw expression matrices, processed intermediate objects, and full executable scripts. Their exclusion is intentional and does not affect the conceptual reproducibility of the workflow.
+These directories contain raw expression matrices and processed intermediate objects. Their exclusion is intentional and does not affect the conceptual reproducibility of the workflow.
 
 
 
